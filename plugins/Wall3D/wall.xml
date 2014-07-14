@@ -1,0 +1,51 @@
+﻿<wall>
+	<config>
+		<path>res/tumb/</path>
+	</config>
+	<nodes>
+		<node id="0" url="0.jpg" target="">彩俑</node>
+		<node id="1" url="1.jpg">彩俑</node>
+		<node id="2" url="2.jpg">彩俑</node>
+		<node id="3" url="3.jpg">彩俑</node>
+		<node id="4" url="4.jpg">彩俑</node>
+		<node id="5" url="5.jpg">彩俑</node>
+		<node id="6" url="6.jpg">彩俑</node>
+		<node id="7" url="7.jpg">彩俑</node>
+		<node id="8" url="8.jpg">彩俑</node>
+		<node id="9" url="9.jpg">彩俑</node>
+		<node id="10" url="10.jpg">彩俑</node>
+		<node id="11" url="11.jpg">彩俑</node>
+		<node id="12" url="12.jpg">彩俑</node>
+		<node id="13" url="13.jpg">彩俑</node>
+		<node id="14" url="14.jpg">彩俑</node>
+		<node id="15" url="15.jpg">彩俑</node>
+		<node id="16" url="16.jpg">彩俑</node>
+		<node id="17" url="17.jpg">彩俑</node>
+		<node id="18" url="18.jpg">彩俑</node>
+		<node id="19" url="19.jpg">彩俑</node>
+		<node id="20" url="20.jpg">彩俑</node>
+		<node id="21" url="21.jpg">彩俑</node>
+		<node id="22" url="22.jpg">彩俑</node>
+		<node id="23" url="23.jpg">彩俑</node>
+		<node id="24" url="24.jpg">彩俑</node>
+		<node id="25" url="25.jpg">彩俑</node>
+		<node id="26" url="26.jpg">彩俑</node>
+		<node id="27" url="27.jpg">彩俑</node>
+		<node id="28" url="28.jpg">彩俑</node>
+		<node id="29" url="29.jpg">彩俑</node>
+		<node id="30" url="30.jpg">彩俑</node>
+		<node id="31" url="31.jpg">彩俑</node>
+		<node id="32" url="32.jpg">彩俑</node>
+		<node id="33" url="33.jpg">彩俑</node>
+		<node id="34" url="34.jpg">彩俑</node>
+		<node id="35" url="35.jpg">彩俑</node>
+		<node id="36" url="36.jpg">彩俑</node>
+		<node id="37" url="37.jpg">彩俑</node>
+		<node id="38" url="38.jpg">彩俑</node>
+		<node id="39" url="39.jpg">彩俑</node>
+		<node id="40" url="40.jpg">彩俑</node>
+		<node id="41" url="41.jpg">彩俑</node>
+		<node id="42" url="42.jpg">彩俑</node>
+		<node id="43" url="43.jpg">彩俑</node>
+	</nodes>
+</wall>

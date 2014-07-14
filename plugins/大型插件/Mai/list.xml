@@ -1,0 +1,242 @@
+﻿<pano>
+	<spot id="1" title="景区一" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.5468,0.3787;0.5868,0.3879;0.5801,0.4855;0.543,0.4851" title="纸花" image="res/about.jpg" content="&lt;p&gt;中国刺绣工艺在秦汉时期就已达到较高水平，刺绣和丝绸是丝绸之路上运输的主要商品。中国刺绣最突出的有江苏的苏绣、湖南的湘绣，广东的粤绣和四川的蜀绣。&lt;/p&gt;&lt;p&gt;苏绣已经有两千多年的历史。宋代已有相当规模，明未清初的沈寿，吸收西洋和日本美术、刺绣的长处，创造了有光线效果的仿真绣。30年代，丹阳正则女子职业学校创造了乱针绣。苏绣以精细、素雅著称。构图简练，主题突出。其技巧特点概括为“平、齐、细、密、匀、顺、和、光”八个字。最细的将一根丝线掰成四十八股，一般人用肉眼无法看清。双面绣是在绣品的正反两面绣图案，两面的形象、针法相同，针脚藏而不露。&lt;/p&gt;" />
+			<overlay type="polygon" path="0.5223,0.5478;0.5313,0.5295;0.5316,0.5482;0.5223,0.5478" title="插座" image="" content="这是一个例子" />
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>陕西师范大学是教育部直属、国家“ 211 工程”重点建设大学，国家教师教育“ 985 ”优势学科创新平台建设高校，是国家培养高等院校、中等学校师资和教育管理干部以及其他高级专门人才的重要基地，被誉为西北地区“教师的摇篮”。 
+学校是全国最早实行后勤社会化改革的高校之一，并积极探索出了一条被誉为“陕西师大模式”的后勤改革之路，在全国产生了广泛影响。面向新世纪，陕西师范大学以西部大开发和教育大发展为契机，全面提高教育教学质量、科研水平和社会服务能力，正朝着以教师教育为主要特色的综合性研究型大学的目标努力奋斗。
+		</summary>
+	</spot>
+	
+	<spot id="2" title="景区2" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.5468,0.3787;0.5868,0.3879;0.5801,0.4855;0.543,0.4851" title="纸花" image="res/about.jpg" content="&lt;p&gt;中国刺绣工艺在秦汉时期就已达到较高水平，刺绣和丝绸是丝绸之路上运输的主要商品。中国刺绣最突出的有江苏的苏绣、湖南的湘绣，广东的粤绣和四川的蜀绣。&lt;/p&gt;&lt;p&gt;苏绣已经有两千多年的历史。宋代已有相当规模，明未清初的沈寿，吸收西洋和日本美术、刺绣的长处，创造了有光线效果的仿真绣。30年代，丹阳正则女子职业学校创造了乱针绣。苏绣以精细、素雅著称。构图简练，主题突出。其技巧特点概括为“平、齐、细、密、匀、顺、和、光”八个字。最细的将一根丝线掰成四十八股，一般人用肉眼无法看清。双面绣是在绣品的正反两面绣图案，两面的形象、针法相同，针脚藏而不露。&lt;/p&gt;" />
+			<overlay type="polygon" path="0.5223,0.5478;0.5313,0.5295;0.5316,0.5482;0.5223,0.5478" title="插座" image="" content="这是一个例子" />
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="3" title="景区3" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+			<node url="library/2.jpg" thumb="Library.thumb/2.jpg" title="景区一  景点2" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.5468,0.3787;0.5868,0.3879;0.5801,0.4855;0.543,0.4851" title="纸花" image="res/about.jpg" content="&lt;p&gt;中国刺绣工艺在秦汉时期就已达到较高水平，刺绣和丝绸是丝绸之路上运输的主要商品。中国刺绣最突出的有江苏的苏绣、湖南的湘绣，广东的粤绣和四川的蜀绣。&lt;/p&gt;&lt;p&gt;苏绣已经有两千多年的历史。宋代已有相当规模，明未清初的沈寿，吸收西洋和日本美术、刺绣的长处，创造了有光线效果的仿真绣。30年代，丹阳正则女子职业学校创造了乱针绣。苏绣以精细、素雅著称。构图简练，主题突出。其技巧特点概括为“平、齐、细、密、匀、顺、和、光”八个字。最细的将一根丝线掰成四十八股，一般人用肉眼无法看清。双面绣是在绣品的正反两面绣图案，两面的形象、针法相同，针脚藏而不露。&lt;/p&gt;" />
+			<overlay type="polygon" path="0.5223,0.5478;0.5313,0.5295;0.5316,0.5482;0.5223,0.5478" title="插座" image="" content="这是一个例子" />
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="4" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="5" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="6" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="7" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="8" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="9" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="10" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="11" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+
+	<spot id="12" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+	
+	<spot id="13" title="景区4" position="0.55570,0.74107">
+		<edges>
+			<edge id="1" rotation="0" />
+			<edge id="1" rotation="180" />
+		</edges>
+		<nodes>
+			<node url="library/1.jpg" thumb="Library.thumb/1.jpg" title="景区一  景点1" />
+		</nodes>
+		<overlays>
+			<overlay type="polygon" path="0.6553,0.7691;0.6434,0.7669;0.6371,0.7602;0.6363,0.7486;0.6371,0.7378;0.6432,0.7271;0.6491,0.7236;0.656,0.7224;0.6652,0.7261;0.6719,0.7347;0.6722,0.7503;0.6691,0.7613;0.6644,0.7671" title="陶瓷" image="" content="这是一个例子" />
+		</overlays>
+		<summary>
+			这是一个测试
+		</summary>
+	</spot>
+</pano>
