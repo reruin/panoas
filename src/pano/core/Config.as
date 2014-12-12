@@ -509,8 +509,10 @@
 			var _xml = new XML(v);
 			//voice = _xml.@sound;
 			var l:int;
-			if(_xml.plugins)
+			
+			if(_xml.plugins && _xml.plugins.plugin.length())
 			{
+			
 				var path:String = (_xml.plugins.@path).toString(),
 				l =  _xml.plugins.plugin.length();
 				

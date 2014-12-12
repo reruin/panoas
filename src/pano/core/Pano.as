@@ -397,8 +397,8 @@
 		{
 			var dx = _rotationData.x + p.x; 
 			var dy = _rotationData.y + p.y;
-			if( dx > 89.999 || dx > Config.maxRotationX) dx = Math.min(89.999,Config.maxRotationX);
-			if( dx < -89.999 || dx < Config.minRotationX) dx = Math.max(-89.999,Config.minRotationX);
+			if( dx > 89.999 || dx > Config.maxPitch) dx = Math.min(89.999,Config.maxPitch);
+			if( dx < -89.999 || dx < Config.minPitch) dx = Math.max(-89.999,Config.minPitch);
 			
 			_rotationData = new Point(dx,dy);
 

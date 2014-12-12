@@ -59,9 +59,8 @@
 			
 			if(!Config.LockKeyBoard) EM.activate(KeyboardManager);
 			
-			if(Stack.plugins)
+			if(Stack.plugins.length)
 			{
-				
 				for(var i in Stack.plugins)
 				{
 					Logger.trace(1,"load plugins - "+Stack.plugins[i].path)

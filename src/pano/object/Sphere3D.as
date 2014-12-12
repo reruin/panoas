@@ -34,8 +34,8 @@
 		
 		public function Sphere3D(r:Number = 4096 , w:int = 1,h:int = 1,_des:int = 24) //Use for Tile
 		{
-			bmdW = r; des = _des;
-			bmdH = r/2;
+			bmdW = 6000; des = _des;
+			bmdH = 3000;
 			TileW = bmdW/w;
 			TileH = bmdH/h;
 			build();
@@ -46,8 +46,8 @@
 			_sphere.material.bitmap.dispose();
 			_sphere.material.destroy();
 			this.removeChild(_sphere)
-			
 		}
+		
 		private function build()
 		{
 			var _bmd:BitmapData  = new BitmapData(bmdW,bmdH,false,0x000000);
@@ -85,7 +85,6 @@
 		{
 			return _sphere.rotationY;
 		}
-		
 		
 		
 		public function swapTile(bmd:BitmapData,ix,iy)

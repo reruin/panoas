@@ -98,7 +98,7 @@ package pano.controls {
 			this.set("stage",this.stage);
 			this.set("viewport",tar);
 			
-			activate([CustomContextMenu]); //核心插件
+			activate([CustomContextMenu]); //core plugins
 			
 			lq = new LoaderQueue();
 			lq.addEventListener("EveryComplete",loadHandler,false,0,true);
@@ -112,6 +112,7 @@ package pano.controls {
 		
 		public function finish():void
 		{
+			tar.init();
 			this.dispatchEvent(new NoticeEvent(ExtraInterface.PLUGINEVENT_REGISTER));
 		}
 		//private var tar_extra:DisplayObject;
@@ -125,7 +126,7 @@ package pano.controls {
 		
 		private function loadAllHandler(e:* = null):void
 		{
-			tar.init();
+			
 			finish();
 			//
 		}
@@ -141,14 +142,15 @@ package pano.controls {
 		{
 			return Config[v];
 		}
-		
+		/*
 		public function act(c):void
 		{
 			var instance = new (c as Class)();
-			counter++
+			counter++;
 			screen.addChild(instance)
 			
 		}
+		*/
 		public function activate(c,v:Array = null)
 		{
 			if(c is String)
